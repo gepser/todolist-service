@@ -21,7 +21,7 @@ import (
 
 	eh "github.com/looplab/eventhorizon"
 	"github.com/looplab/eventhorizon/repo/mongodb"
-	"github.com/ottogiron/todolist-api/internal/domain"
+	"github.com/ottogiron/todolist-service/internal/domain"
 )
 
 func main() {

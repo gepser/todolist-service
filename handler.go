@@ -34,7 +34,7 @@ import (
 	repo "github.com/looplab/eventhorizon/repo/mongodb"
 	"github.com/looplab/eventhorizon/repo/version"
 
-	"github.com/ottogiron/todolist-api/internal/domain"
+	"github.com/ottogiron/todolist-service/internal/domain"
 )
 
 // Handler is a http.Handler for the TodoMVC app.
