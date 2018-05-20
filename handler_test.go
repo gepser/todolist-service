@@ -27,7 +27,7 @@ import (
 	"golang.org/x/net/context"
 
 	eh "github.com/looplab/eventhorizon"
-	"github.com/looplab/eventhorizon/examples/todomvc/internal/domain"
+	"github.com/ottogiron/todolist-service/internal/domain"
 )
 
 func TestStaticFiles(t *testing.T) {
